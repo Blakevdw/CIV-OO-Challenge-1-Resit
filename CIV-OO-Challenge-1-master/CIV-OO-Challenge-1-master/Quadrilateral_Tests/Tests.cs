@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-// remember to reference and import your shape library
+using ShapesClass;
 
 namespace Quadrilateral_Tests
 {
