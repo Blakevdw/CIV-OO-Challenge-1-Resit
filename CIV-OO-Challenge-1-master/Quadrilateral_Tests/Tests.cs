@@ -75,7 +75,25 @@ namespace Quadrilateral_Tests {
 
         }
 
-        [Test]
+		[Test]
+		[TestCase(5, 25)]
+		[TestCase(7, 49)]
+		[TestCase(15, 225)]
+		public void Square_GetArea_ValidInput_CorrectResult(int input, int expected)
+		{
+			// arrange
+			var sq = new Square("blue", input);
+
+			// act
+			var result = sq.GetArea();
+
+			// assert
+			Assert.AreEqual(expected, result);
+		}
+
+
+
+		[Test]
         public void RectangleTests() {
             int area = 12;
             int perimeter = 14;
