@@ -710,9 +710,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj",
-      "projectName": "ShapeMaker",
-      "projectPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj",
+      "projectUniqueName": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeGenerator.csproj",
+      "projectName": "ShapeGenerator",
+      "projectPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeGenerator.csproj",
       "packagesPath": "C:\\Users\\102535342\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\ShapeMaker\\obj\\",
       "projectStyle": "PackageReference",

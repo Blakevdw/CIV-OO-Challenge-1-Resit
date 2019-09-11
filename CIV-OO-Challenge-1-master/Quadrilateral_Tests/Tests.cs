@@ -5,7 +5,7 @@ using Shapes;
 namespace Quadrilateral_Tests {
     [TestFixture]
 
-    //could seperate these out into seperate test rather than just having to to make it easier to find the point of failure
+
     public class Tests {
         Square sq1 { get; set; }
         Rectangle rec1 { get; set; }
